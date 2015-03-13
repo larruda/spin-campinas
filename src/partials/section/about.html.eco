@@ -1,0 +1,4 @@
+<h2 class="section-title"><%= @labels['about'] %></h2>
+<p itemprop="description">No primeiro encontro de 2015 o <b>SPIN-Campinas</b> em co-realização com a <b>PUC-Campinas</b> promovem uma tarde especial! Imagine um ambiente formado por empreendedores e interessados em empreender, onde todos possuem objetivos em comum e acreditam que a melhor maneira de se alcançar esses objetivos é através da troca de informações e experiências.
+Teremos três palestrantes compartilhando suas vivências no mundo do <i>entrepreneurship</i>, não perca essa oportunidade. </p>
+<p>Inscreva-se, é gratuito! Contamos com a sua presença!</p>
