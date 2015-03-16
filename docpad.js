@@ -74,7 +74,7 @@ module.exports = {
         presentation: {
           title: "Empreender? Onde, como, por quê?",
           description: "Discutir o tema empreendedorismo, onde ele se aplica e porque ele faz a diferença. Empreendedorismo é muito mais que criar uma empresa a partir de uma ideia. Empreender é inovar, é gerar valor a partir da resolução de um problema real. Vamos explicar como o conceito se aplica tanto à startup e quanto à grande empresa; as ferramentas mais utilizadas neste ambiente  e porque empreendedorismo está sendo considerado como a mola mestra do crescimento econômico mundial.",
-          time: "16h20"
+          time: "13h40"
         }
       },
       {
@@ -108,12 +108,12 @@ module.exports = {
         presentation: {
           title: "Equity Crowdfunding: Uma maneira inovadora de financiar a sua Startup!",
           description: "Será abordado diversas fontes de financiamento/\"capital empreendedor\" disponíveis para se financiar uma idéia ou empresa em estágio inicial (Investimento Anjo, Fundo de Capital Semente, Venture Capital, Subvenção/Edital, Aceleradora, Financiamento Bancário, e etc), culminando no Equity Crowdfunding, uma maneira inovadora de captação de recursos, também conhecida como Investimento Colaborativo para Startups.",
-          time: "17h20"
+          time: "16h20"
         }
       },
       {
         name: "Encerramento",
-        time: "13h40"
+        time: "17h20"
       }
     ],
 
