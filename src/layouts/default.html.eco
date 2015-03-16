@@ -60,6 +60,7 @@
   <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', '<%= @site.googleanalytics %>']);
+      _gaq.push(['_setCookiePath', '/spin-campinas']);
       _gaq.push(['_trackPageview']);
 
       (function() {
