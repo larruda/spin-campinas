@@ -63,40 +63,6 @@ module.exports = {
         time: "13h30"
       },
       {
-        name: "Tiago Aguirre",
-        photo: "https://media.licdn.com/mpr/mpr/shrink_120_120/p/4/000/147/1f6/150df15.jpg",
-        bio: "Eng.Computação-PUC-Campinas, MBA e-Business - FGV, empreendedor e empresário, diretor da TechTrend IT Solutions, professor da Disciplina de Empreendedorismo para cursos de SI e Eng. Computação da PUC-Campinas, Coodenador do programa PUC-Campinas Empreende, Conselheiro CIESP-DR-Campinas, Conselheiro SESI-SENAI DR Campinas, membro do Conselho INCAMP, Presidente do Gênese 2008 à 2012, Coordenador do NJE-CIESP 2008 à 2012, membro COMDEFESA-FIESP em 2009.",
-        company: "PUC-Campinas",
-        link: {
-          href: "https://br.linkedin.com/pub/tiago-ferraz-de-arruda-e-aguirre/0/3aa/6a1",
-          text: "LinkedIn"
-        },
-        presentation: {
-          title: "Empreendedorismo e Universidade: um modelo para transformação da sociedade",
-          description: "Estimular a reflexão do papel do empreendedorismo estimulado por Universidades. Com a crescente demanda de produtividade no mercado de trabalho é necessário refletir como a Universidade pode estimular a consciência empreendedora dos nossos alunos e mecanismos de transformação da sociedade através de empresas já constituídas e também por novas empresas.",
-          time: "13h40"
-        }
-      },
-      {
-        name: "Ricardo Politi",
-        photo: "http://www.broota.com.br/assets/ricardo-politi-921024bb0755f2cff75c1f63f80bd21b.jpg",
-        bio: "Estando envolvido com a indústria de Capital de Risco, temos grande proximidade e trânsito por diversos Grupos de Anjos, Fundos de Private Equity e Venture Capital, Aceleradoras/Incubadoras, assim como iniciativas de fomento do governo. Além disso, por sermos a primeira e única plataforma de Equity Crowdfunding em operação no Brasil, temos bastante expertise para compartilhar sobre estes \"mini-IPOs\" de micro e pequenas empresas através da internet, com respaldo da CVM.",
-        company: "Broota",
-        link: {
-          href: "https://br.linkedin.com/pub/ricardo-politi/27/330/381/en",
-          text: "LinkedIn"
-        },
-        presentation: {
-          title: "Equity Crowdfunding: Uma maneira inovadora de financiar a sua Startup!",
-          description: "Será abordado diversas fontes de financiamento/\"capital empreendedor\" disponíveis para se financiar uma idéia ou empresa em estágio inicial (Investimento Anjo, Fundo de Capital Semente, Venture Capital, Subvenção/Edital, Aceleradora, Financiamento Bancário, e etc), culminando no Equity Crowdfunding, uma maneira inovadora de captação de recursos, também conhecida como Investimento Colaborativo para Startups.",
-          time: "14h50"
-        }
-      },
-      {
-        name: "Coffee-break",
-        time: "15h50"
-      },
-      {
         name: "Rosana Fernandes",
         photo: "https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/075/308/3196017.jpg",
         bio: "Apaixonada por inovação, sempre atuou  na área de desenvolvimento de soluções em empresas nacionais e multinacionais de alta tecnologia. É Sócia Fundadora da Baita- Aceleradora de Empresas e  presidente  do Unicamp Ventures, rede de relacionamento de empreendedores ligados a Unicamp.Foi  Diretora Senior de Desenvolvimento de Produtos para América Latina da Motorola, onde liderou o desenvolvimento de produtos para o mercado regional e mundial. Brasileira e casada, Rosana formou-se em Ciências da Computação pela Universidade Estadual de Campinas (UNICAMP), especialização em Comunicação de Dados pela JICA (Japão), governança corporativa pelo IBGC e possui MBA pela FIA/ USP.",
@@ -112,8 +78,42 @@ module.exports = {
         }
       },
       {
+        name: "Tiago Aguirre",
+        photo: "https://media.licdn.com/mpr/mpr/shrink_120_120/p/4/000/147/1f6/150df15.jpg",
+        bio: "Eng.Computação-PUC-Campinas, MBA e-Business - FGV, empreendedor e empresário, diretor da TechTrend IT Solutions, professor da Disciplina de Empreendedorismo para cursos de SI e Eng. Computação da PUC-Campinas, Coodenador do programa PUC-Campinas Empreende, Conselheiro CIESP-DR-Campinas, Conselheiro SESI-SENAI DR Campinas, membro do Conselho INCAMP, Presidente do Gênese 2008 à 2012, Coordenador do NJE-CIESP 2008 à 2012, membro COMDEFESA-FIESP em 2009.",
+        company: "PUC-Campinas",
+        link: {
+          href: "https://br.linkedin.com/pub/tiago-ferraz-de-arruda-e-aguirre/0/3aa/6a1",
+          text: "LinkedIn"
+        },
+        presentation: {
+          title: "Empreendedorismo e Universidade: um modelo para transformação da sociedade",
+          description: "Estimular a reflexão do papel do empreendedorismo estimulado por Universidades. Com a crescente demanda de produtividade no mercado de trabalho é necessário refletir como a Universidade pode estimular a consciência empreendedora dos nossos alunos e mecanismos de transformação da sociedade através de empresas já constituídas e também por novas empresas.",
+          time: "14h50"
+        }
+      },
+      {
+        name: "Coffee-break",
+        time: "15h50"
+      },
+      {
+        name: "Ricardo Politi",
+        photo: "http://www.broota.com.br/assets/ricardo-politi-921024bb0755f2cff75c1f63f80bd21b.jpg",
+        bio: "Estando envolvido com a indústria de Capital de Risco, temos grande proximidade e trânsito por diversos Grupos de Anjos, Fundos de Private Equity e Venture Capital, Aceleradoras/Incubadoras, assim como iniciativas de fomento do governo. Além disso, por sermos a primeira e única plataforma de Equity Crowdfunding em operação no Brasil, temos bastante expertise para compartilhar sobre estes \"mini-IPOs\" de micro e pequenas empresas através da internet, com respaldo da CVM.",
+        company: "Broota",
+        link: {
+          href: "https://br.linkedin.com/pub/ricardo-politi/27/330/381/en",
+          text: "LinkedIn"
+        },
+        presentation: {
+          title: "Equity Crowdfunding: Uma maneira inovadora de financiar a sua Startup!",
+          description: "Será abordado diversas fontes de financiamento/\"capital empreendedor\" disponíveis para se financiar uma idéia ou empresa em estágio inicial (Investimento Anjo, Fundo de Capital Semente, Venture Capital, Subvenção/Edital, Aceleradora, Financiamento Bancário, e etc), culminando no Equity Crowdfunding, uma maneira inovadora de captação de recursos, também conhecida como Investimento Colaborativo para Startups.",
+          time: "17h20"
+        }
+      },
+      {
         name: "Encerramento",
-        time: "17h20"
+        time: "13h40"
       }
     ],
 
