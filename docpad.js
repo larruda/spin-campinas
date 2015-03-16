@@ -29,7 +29,7 @@ module.exports = {
     site: {
       theme: "yellow-swan",
       url: "http://larruda.github.io/spin-campinas/",
-      googleanalytics: ""
+      googleanalytics: "UA-60773644-1"
     },
 
     // Active sections on the website
