@@ -99,7 +99,7 @@ module.exports = {
       {
         name: "Ricardo Politi",
         photo: "http://www.broota.com.br/assets/ricardo-politi-921024bb0755f2cff75c1f63f80bd21b.jpg",
-        bio: "Estando envolvido com a indústria de Capital de Risco, temos grande proximidade e trânsito por diversos Grupos de Anjos, Fundos de Private Equity e Venture Capital, Aceleradoras/Incubadoras, assim como iniciativas de fomento do governo. Além disso, por sermos a primeira e única plataforma de Equity Crowdfunding em operação no Brasil, temos bastante expertise para compartilhar sobre estes \"mini-IPOs\" de micro e pequenas empresas através da internet, com respaldo da CVM.",
+        bio: "Administrador de Empresas pelo Ibmec São Paulo, Ricardo Politi iniciou sua carreira como consultor de investimentos focado nos mercados hoteleiro, imobiliário e turístico, atuando na sequência como executivo comercial em uma trading company com foco no mercado internacional. Atualmente, como empreendedor, é sócio do Broota Brasil, a primeira plataforma de Equity Crowdfunding da América Latina, tendo sito pioneiro tanto no mercado Chileno quanto Brasileiro. Além disso, atua como fundraiser voluntário no Instituto Gerando Falcões (IGF), é membro do Comitê de Gestão e Coordenador de Solidariedade do LIDE Futuro (Grupo Doria) e Moderador de Fórum YNGr do Young Presidents' Organization (YPO).",
         company: "Broota",
         link: {
           href: "https://br.linkedin.com/pub/ricardo-politi/27/330/381/en",
@@ -107,7 +107,7 @@ module.exports = {
         },
         presentation: {
           title: "Equity Crowdfunding: Uma maneira inovadora de financiar a sua Startup!",
-          description: "Será abordado diversas fontes de financiamento/\"capital empreendedor\" disponíveis para se financiar uma idéia ou empresa em estágio inicial (Investimento Anjo, Fundo de Capital Semente, Venture Capital, Subvenção/Edital, Aceleradora, Financiamento Bancário, e etc), culminando no Equity Crowdfunding, uma maneira inovadora de captação de recursos, também conhecida como Investimento Colaborativo para Startups.",
+          description: "Serão abordadas diversas fontes de financiamento/\"capital empreendedor\" disponíveis para se financiar uma idéia ou empresa em estágio inicial (Investimento Anjo, Fundo de Capital Semente, Venture Capital, Subvenção/Edital, Aceleradora, Financiamento Bancário, e etc), culminando no Equity Crowdfunding, uma maneira inovadora de captação de recursos, também conhecida como Investimento Colaborativo para Startups.",
           time: "16h20"
         }
       },
